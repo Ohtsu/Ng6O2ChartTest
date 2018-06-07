@@ -1,0 +1,7 @@
+{
+  "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
+  "dest": "../../dist/ng6-o2-chart",
+  "lib": {
+    "entryFile": "src/public_api.ts"
+  }
+}
