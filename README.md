@@ -59,7 +59,7 @@ $ ng serve
 ## Version
 
    - ng6-o2-chart-test     : 0.3
-   - ng6-o2-chart          : 0.2.
+   - ng6-o2-chart          : 0.3
    - Angular6              : 6.0.0
    - TypeScript            : 2.7.2
    - d3.js                 : 4.3.0
@@ -197,10 +197,10 @@ In the same directory, modify **app.component.ts** as follows.
 
 ```typescript
 
-import { Ng6O2ChartModule } from 'ng6-o2-chart';
+import { Ng6O2ChartModule } from 'ng6-o2-chart';   // <= Add
 import { Component } from '@angular/core';
 
-import * as  ChartConst from 'ng6-o2-chart';
+import * as  ChartConst from 'ng6-o2-chart';    // <= Add
 
 @Component({
   selector: 'app-root',
