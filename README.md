@@ -7,10 +7,10 @@ _ng6-o2-chart_ is a chart library using d3.js (version 4) for Angular6 written b
 _Test Project for This Library_,
 <https://github.com/Ohtsu/Ng6O2ChartTest/>
 
-_Video Explanation (English)_,
+_Video Explanation (Japanese)_,
 <https://www.youtube.com/watch?v=PsLDZFqXTGw>
 
-_Video Explanation (Japanese)_,
+_Video Explanation (English)_,
 <https://www.youtube.com/watch?v=uf5ipN2LJ78>
 
 
@@ -116,10 +116,10 @@ MIT © [Shuichi Ohtsu](ohtsu@digipub-net.com)
 
 ## Step by Step Intallation of _ng6-o2-chart_
 
-_Video Explanation (English)_,
+_Video Explanation (Japanese)_,
 <https://www.youtube.com/watch?v=PsLDZFqXTGw>
 
-_Video Explanation (Japanese)_,
+_Video Explanation (English)_,
 <https://www.youtube.com/watch?v=uf5ipN2LJ78>
 
 #### Install @angular/cli
